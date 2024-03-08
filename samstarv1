@@ -1,0 +1,6 @@
+# https://tea.xyz/samstar
+---
+version: 1.0.0
+codeOwners:
+  - '0x7C5089F094b4019E39Ac03A0Fe57505c21809623'
+quorum: 1
